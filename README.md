@@ -1,6 +1,6 @@
 # daily_thrive
 
-A new Flutter project.
+Flutter Based Android Application.
 
 ## Getting Started
 
