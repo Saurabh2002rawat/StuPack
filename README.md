@@ -1,6 +1,6 @@
-# daily_thrive
+# stu_pack-daily thrive 
 
-Flutter Based Android Application.
+Flutter Based Android Application for students.
 
 ## Getting Started
 
