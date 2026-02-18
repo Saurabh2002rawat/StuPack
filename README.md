@@ -4,7 +4,7 @@ Flutter Based Android Application for students.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a based on Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -15,3 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# StuPack" 
+
+##  Features
+- Daily Schedule
+- Attendance Tracker ( Most Important IG )
+- Reminders
+- Time Table / Schedule
+- Daily Quotes
