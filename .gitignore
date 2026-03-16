@@ -44,6 +44,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Exclude google-services.json
+# Excluding google-services.json
 android/app/google-services.json
 
